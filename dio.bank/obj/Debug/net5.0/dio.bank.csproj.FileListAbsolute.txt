@@ -1,0 +1,16 @@
+C:\Users\Yasmin\Desktop\dio\dio.bank\bin\Debug\net5.0\dio.bank.exe
+C:\Users\Yasmin\Desktop\dio\dio.bank\bin\Debug\net5.0\dio.bank.deps.json
+C:\Users\Yasmin\Desktop\dio\dio.bank\bin\Debug\net5.0\dio.bank.runtimeconfig.json
+C:\Users\Yasmin\Desktop\dio\dio.bank\bin\Debug\net5.0\dio.bank.runtimeconfig.dev.json
+C:\Users\Yasmin\Desktop\dio\dio.bank\bin\Debug\net5.0\dio.bank.dll
+C:\Users\Yasmin\Desktop\dio\dio.bank\bin\Debug\net5.0\ref\dio.bank.dll
+C:\Users\Yasmin\Desktop\dio\dio.bank\bin\Debug\net5.0\dio.bank.pdb
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\dio.bank.csprojAssemblyReference.cache
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\dio.bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\dio.bank.AssemblyInfoInputs.cache
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\dio.bank.AssemblyInfo.cs
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\dio.bank.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\dio.bank.dll
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\ref\dio.bank.dll
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\dio.bank.pdb
+C:\Users\Yasmin\Desktop\dio\dio.bank\obj\Debug\net5.0\dio.bank.genruntimeconfig.cache
