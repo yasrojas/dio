@@ -1,0 +1,16 @@
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\bin\Debug\net5.0\dio.series.exe
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\bin\Debug\net5.0\dio.series.deps.json
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\bin\Debug\net5.0\dio.series.runtimeconfig.json
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\bin\Debug\net5.0\dio.series.runtimeconfig.dev.json
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\bin\Debug\net5.0\dio.series.dll
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\bin\Debug\net5.0\ref\dio.series.dll
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\bin\Debug\net5.0\dio.series.pdb
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\dio.series.csprojAssemblyReference.cache
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\dio.series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\dio.series.AssemblyInfoInputs.cache
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\dio.series.AssemblyInfo.cs
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\dio.series.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\dio.series.dll
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\ref\dio.series.dll
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\dio.series.pdb
+C:\Users\Yasmin\Desktop\workspace_git\dio\dio.series\obj\Debug\net5.0\dio.series.genruntimeconfig.cache
