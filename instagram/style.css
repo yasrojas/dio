@@ -1,0 +1,161 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+body{
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.instagram_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    /*width: 60%;*/
+    height: 100vh;
+}
+
+.instagram_phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin-right: 2rem;
+}
+
+.instagram_phone img{
+    height: 50rem;
+}
+
+.instagram_continue {
+    display: flex;
+    align-items: center; /* horizontal */
+    justify-content: space-around; /* vertical */
+    flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
+}
+
+.group{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FEFEFE;
+    width: 100%;
+    padding: 1.3rem 0;
+    border: 1px solid lightgray;
+}
+
+.group:nth-child(1) {
+    min-height: 19rem;
+    margin-bottom: .5rem;
+}
+
+.group:nth-child(2) {
+    padding-bottom: 0;
+}
+
+/*logo do Instagram*/
+.instagram_logo {
+    height: 5rem;
+    margin-bottom: 1.5rem; 
+    margin-top: 1rem;
+}
+
+.login input {
+    width: 100%;
+}
+
+.input-group {
+    padding-bottom: .3rem;
+}
+
+
+#login_user, #login_password{
+    font-size: 12px;
+    text-decoration: none;
+}
+
+/*botão Entrar*/
+.instagram_login {
+    background-color: #0095f6;
+    color:#ffffff;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    margin-top: .5rem;
+    margin-bottom: 1rem;
+}
+
+.signup {
+    color:#0095f6;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.or {
+    margin-bottom: 1.3rem;
+    margin-top: .3rem;
+    color: gray;
+}
+
+.login_facebook {
+    margin-bottom: .5rem;
+}
+
+.login_facebook a{
+    text-decoration: none;
+    color: #385185;
+}
+
+.login_facebook p {
+    display: inline;
+}
+
+.forgot_password a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #385185;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1.3rem 0;
+}
+
+/*icon Facebook*/
+.login_facebook img {
+    height: 1rem;
+}
+
+/* opção entrar com o Facebook*/
+.login_facebook p{
+    font-weight: bold;
+}
+
+/*grupo com os icons do Google Play e App Store*/
+.icon_app{
+    flex-direction: row;
+    flex: 50%;
+    padding: .3rem;
+}
+
+/*tamanho icons para baixar o app Instagram*/
+.app_store, .google_play {
+    height: 3rem;
+}
